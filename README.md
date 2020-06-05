@@ -1,9 +1,13 @@
 Task:
 
 Do not use any charts libs,
+
 use https://bittrex.github.io/api/v1-1,
+
 create 7 charts of most popular coins,
+
 add possibility add more coins.
+
 Refresh every 5 sec.
 
 
