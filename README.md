@@ -1,3 +1,12 @@
+Task:
+
+Do not use any charts libs,
+use https://bittrex.github.io/api/v1-1,
+create 7 charts of most popular coins,
+add possibility add more coins.
+Refresh every 5 sec.
+
+
 # TestBitkoinsChart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
